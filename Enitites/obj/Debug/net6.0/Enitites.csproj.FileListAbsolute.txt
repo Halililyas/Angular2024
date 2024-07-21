@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\WebApıAngular2024\Enitites\bin\Debug\net6.0\Enitites.deps.json
+C:\Users\Lenovo\Desktop\WebApıAngular2024\Enitites\bin\Debug\net6.0\Enitites.dll
+C:\Users\Lenovo\Desktop\WebApıAngular2024\Enitites\bin\Debug\net6.0\Enitites.pdb
+C:\Users\Lenovo\Desktop\WebApıAngular2024\Enitites\bin\Debug\net6.0\Core.dll
+C:\Users\Lenovo\Desktop\WebApıAngular2024\Enitites\bin\Debug\net6.0\Core.pdb
+C:\Users\Lenovo\Desktop\WebApıAngular2024\Enitites\obj\Debug\net6.0\Enitites.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\WebApıAngular2024\Enitites\obj\Debug\net6.0\Enitites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\WebApıAngular2024\Enitites\obj\Debug\net6.0\Enitites.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\WebApıAngular2024\Enitites\obj\Debug\net6.0\Enitites.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\WebApıAngular2024\Enitites\obj\Debug\net6.0\Enitites.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\WebApıAngular2024\Enitites\obj\Debug\net6.0\Enitites.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\WebApıAngular2024\Enitites\obj\Debug\net6.0\Enitites.dll
+C:\Users\Lenovo\Desktop\WebApıAngular2024\Enitites\obj\Debug\net6.0\refint\Enitites.dll
+C:\Users\Lenovo\Desktop\WebApıAngular2024\Enitites\obj\Debug\net6.0\Enitites.pdb
+C:\Users\Lenovo\Desktop\WebApıAngular2024\Enitites\obj\Debug\net6.0\ref\Enitites.dll
